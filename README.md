@@ -7,3 +7,7 @@ Handy tools for computer vision in python.
 * [backgrounder](https://github.com/lysuhin/python-computer-vision/tree/master/backgrounder)
 
   Implementations of simple background substraction algorithms (for grayscale images only) in cases of almost constant background.
+  
+* [patcher](https://github.com/lysuhin/python-computer-vision/tree/master/patcher)
+
+  Simple tool for cropping and saving crops from all images in folder.
